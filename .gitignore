@@ -1,0 +1,15 @@
+# Compiled Binaries (Makefile outputs)
+calculator
+addition
+subtraction
+multiplication
+division
+saver
+*.o
+
+# Log/Output files
+results.txt
+
+# OS temp files
+.DS_Store
+*/.DS_Store
